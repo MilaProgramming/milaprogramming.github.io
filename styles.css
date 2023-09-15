@@ -236,6 +236,10 @@ body{
     }
 
     .elemento{
+        border-bottom: 1px solid var(--grisBorde);
+    }
+
+    .elemento{
         display: flex;
     }
 
